@@ -9,7 +9,7 @@ const config = {
   title: 'Navidium Engineering Handbook',
   tagline: 'Why Navidium is cool',
   url: 'https://navidium-group.github.io/handbook/',
-  baseUrl: '/',
+  baseUrl: '/handbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
