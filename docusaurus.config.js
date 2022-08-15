@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Navidium Engineering Handbook',
   tagline: 'Why Navidium is cool',
-  url: 'https://navidium-group.github.io/handbook/',
+  url: 'https://navidium-group.github.io',
   baseUrl: '/handbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
