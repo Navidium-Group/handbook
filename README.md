@@ -2,6 +2,8 @@
 
 The handbook is built using [Docusaurus 2](https://docusaurus.io/).
 
+There is a live running version of the website served through github pages here - https://navidium-group.github.io/handbook/
+
 ### Installation
 
 ```
