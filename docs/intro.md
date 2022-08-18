@@ -1,4 +1,7 @@
 ---
+slug: /
+id: intro
+title: Welcome to Navidium
 sidebar_position: 1
 ---
 
