@@ -36,15 +36,11 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Navidium-Group/handbook/tree/main/docs',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Navidium-Group/handbook/tree/main/blog',
         },
@@ -61,7 +57,7 @@ const config = {
       navbar: {
         title: 'Navidium Product & Engineering',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Navidium Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -96,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'www.navidium.com',
+                href: 'http://www.navidium.com',
               },
               {
                 label: 'LinkedIn',
@@ -131,6 +127,11 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
       },
     }),
 };
