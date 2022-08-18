@@ -21,5 +21,3 @@ We're proud of our culture and love sharing with others why we think we're a gre
 ## This is a joint effort (and public)
 
 Everyone in Navidium is encouraged to contribute to our handbook. All edits and additions are encouraged. Simply create a PR onto the main branch in our handbook repository and once approved everything is automatically deployed to our public website.
-
-## Social Calendar
