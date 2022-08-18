@@ -4,7 +4,7 @@ title: Career Paths
 sidebar_position: 1
 ---
 
-# Navidium Career Paths
+# Career Paths
 
 Understanding how you can progress your career in Navidium is vital to us and we want to make it as clear as possible for all employees.
 
