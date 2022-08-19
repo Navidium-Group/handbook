@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Introduction
 
-![Navidium Fish Bag](/img/navidium_bag.png)
+![Why We're Here](/img/navidium_bag.png)
 
 Welcome to the Navidium Product & Engineering Handbook. Defining our remote culture is vital in the fast paced, multicultural organisation we work in. We've learnt that all the countries we operate in have their own ways of doing things, ways to communicate and ways of working. So we define what working in Navidium is like. We work on constantly improving that and writing about it to make sure it's understood and shared.
 
