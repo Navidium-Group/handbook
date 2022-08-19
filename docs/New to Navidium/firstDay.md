@@ -6,6 +6,11 @@ sidebar_position: 2
 
 # On Your First Day
 
-Add to snapchat
-holidays into holiday calendar
+We're super excited to have you join Navidium. Here we continue to note down a list of things you should think about on your first day / week.
+
+ - Ask someone to add you to the Navidium SnapChat group (if you have snapchat)
+ - Add any planned days off into the Engineering Holiday Calendar
+ - Say hi to everyone on the #General slack channel
+ - Read this handbook :) 
+ - You will automatically be added to all code repositories and documentation groups
 
