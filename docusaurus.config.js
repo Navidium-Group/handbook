@@ -99,10 +99,6 @@ const config = {
                 href: 'https://www.linkedin.com/company/navidium/',
               },
               {
-                label: 'Twitter',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/Navidium2022',
               },
