@@ -12,7 +12,7 @@ We love this image as a fun way to illustrate an example how different areas of 
 
 | Objective Distribution                      | Communication Top Tips |
 |---------------------------------------------|------------------------|
-| ![Objective Distribution](/img/culture.png) | <ul><li>Always be meaningful in any communication. Ask yourself "what am I really trying to get out of this communication.</li><li>Be mindful of noise. Only comment if you have something to add to the discussion and avoid Drive by opinions (Swoop & Poop) where you don’t have the context and aren’t really a part of the discussion.</li><li>Document EVERYTHING.</li><li>Don’t be afraid to use emoji’s. It’s hard to convey feelings or tone and emoji’s were created specifically for this.</li><li>Use a voice message if that’s easier. Written communication isn’t always the best but also calling someone to a meeting may not be perfect either. Simple voice messages are a wonderful bridge in between both options</li><li>Record a video / screen share</li><li>Slack hangouts are a hidden gem that can be used to pair program, generally chat or bug fix together without the need to stare at a screen to see everyone in a virtual meeting room</li></ul>
+| ![Objective Distribution](/img/culture.png) | <ul><li>Always be meaningful in any communication. Ask yourself "what am I really trying to get out of this communication".</li><li>Be mindful of noise. Only comment if you have something to add to the discussion and avoid Drive by opinions (Swoop & Poop) where you don’t have the context and aren’t really a part of the discussion.</li><li>Document EVERYTHING.</li><li>Don’t be afraid to use emoji’s. It’s hard to convey feelings or tone and emoji’s were created specifically for this.</li><li>Use a voice message if that’s easier. Written communication isn’t always the best but also calling someone to a meeting may not be perfect either. Simple voice messages are a wonderful bridge in between both options</li><li>Record a video / screen share</li><li>Slack hangouts are a hidden gem that can be used to pair program, generally chat or bug fix together without the need to stare at a screen to see everyone in a virtual meeting room</li></ul>
 
 ## Public Before Private
 
@@ -48,7 +48,7 @@ We are trialing different ways to run remote workshops. We've enjoyed using Mura
 
 We strongly believe in becoming more Async in our daily work. This helps people feel not as restricted to their desk and getting out and taking a walk for example during the day when they need it. 
 
-We striving to continue to get better and here are some of the ways so far we've tried to make our daily tasks more Async
+We're striving to continue to get better and here are some of the ways so far we've tried to make our daily tasks more Async
 
 - Use geekbot for things like standups instead of a set synchronous meeting every day
 - Track coding work or conversations as much as possible in issues, PR's or tickets
