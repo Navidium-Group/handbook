@@ -14,9 +14,9 @@ Welcome to the Navidium Product & Engineering Handbook. Defining our remote cult
 We're proud of our culture and love sharing with others why we think we're a great bunch of people to work with. The handbook serves 4 purposes.
 
 1. A guide for everyone in Navidium Product & Engineering. Especially people joining our team.
-2. A single source of truth that we point to continuously internally to make sure we're improving or sticking to ways of working we've agreed upon.
-3. Inspiration for others not in Navidium to think about different ways of working to how they do in their own organisations.
-4. Anyone thinking of joining Navidium can get more insight into daily life in Navidium.
+2. A single source of truth that we point to continuously to make sure we're improving or sticking to ways of working we've agreed upon.
+3. Inspiration for others outside of Navidium to think about different ways of working than how they do in their own organisations.
+4. Anyone thinking of joining Navidium can get more insight into daily life with us.
 
 ## This is a joint effort (and public)
 
