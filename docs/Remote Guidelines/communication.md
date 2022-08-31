@@ -44,6 +44,12 @@ We're always trying to improve our code review processes to make them meaningful
 
 We are trialing different ways to run remote workshops. We've enjoyed using Mural in the past as an interactive way to replace physical whiteboards. We still haven't landed on it as the perfect tool for us but continue to try to find great ways to use tools like this.
 
+## "Flow Mode"
+
+Everyone needs time in their day when they need to concentrate and get "Into the flow". We created a specific status for this in slack to easily inform all of your peers when you're in flow and you may not respond to messages for a while
+
+![Flow Mode](/img/inflowmode.png) 
+
 ## Async
 
 We strongly believe in becoming more Async in our daily work. This helps people feel not as restricted to their desk and getting out and taking a walk for example during the day when they need it. 
