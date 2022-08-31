@@ -46,7 +46,7 @@ We are trialing different ways to run remote workshops. We've enjoyed using Mura
 
 ## "Flow Mode"
 
-Everyone needs time in their day whee they need to concentrate and get "Into the flow". We created a specific status for this in slack to easily inform all of your peers when you're in flow and you may not respond to messages for a while
+Everyone needs time in their day when they need to concentrate and get "Into the flow". We created a specific status for this in slack to easily inform all of your peers when you're in flow and you may not respond to messages for a while
 
 ![Flow Mode](/img/inflowmode.png) 
 
