@@ -18,6 +18,16 @@ Marty, Ros & Gavin meeting in Serbia
 
 ![Marty, Ros & Gavin](/img/social/martyRosGavin.jpg)
 
+## Virtual Cooking Event
+
+Our wonderful Product Specialist Sriram hosted our first virtual cooking event and taught us how to make a classic Indian Dish, Rabri
+
+![Cooking1](/img/social/virtualCooking1.png)
+
+![Cooking2](/img/social/virtualCooking2.png)
+
+![Cooking3](/img/social/cookingResult.jpg)
+
 
 ## Game Nights
 
