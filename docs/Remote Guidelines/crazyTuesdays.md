@@ -12,4 +12,4 @@ Because of this we've created Crazy Tuesdays. This is a full day totally reserve
 
 ## Async Standup
 
-On Crazy Tuesdays we use a tool called Geekbot meaning we don't have our regular synchronous standup. Geekbot sends everyone in the team some questions about their previous days work and their plans for the today. Everyone's answers are shared with the teams public channel once they've answered in their own time.
+On Crazy Tuesdays we use a tool called Geekbot meaning we don't have our regular synchronous standup. Geekbot sends everyone in the team some questions about their previous days work and their plans for the day. Everyone's answers are shared with the teams public channel once they've answered in their own time.
