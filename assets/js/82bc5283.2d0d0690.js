@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[7785],{500:a=>{a.exports=JSON.parse('{"label":"fuel savings","permalink":"/handbook/blog/tags/fuel-savings","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[7031],{7228:a=>{a.exports=JSON.parse('{"label":"software products","permalink":"/handbook/blog/tags/software-products","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

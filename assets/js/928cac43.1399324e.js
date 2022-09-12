@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[85],{7287:a=>{a.exports=JSON.parse('{"label":"green ocean","permalink":"/handbook/blog/tags/green-ocean","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

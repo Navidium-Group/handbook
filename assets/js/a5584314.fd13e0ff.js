@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[2167],{1830:a=>{a.exports=JSON.parse('{"label":"digitilization","permalink":"/handbook/blog/tags/digitilization","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

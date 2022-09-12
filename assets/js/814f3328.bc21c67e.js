@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Vessel Performance","permalink":"/handbook/blog/vesselPerformance"},{"title":"Welcome to the Navidium Blog","permalink":"/handbook/blog/welcome"}]}')}}]);

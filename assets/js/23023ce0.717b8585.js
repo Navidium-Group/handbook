@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[7408],{366:a=>{a.exports=JSON.parse('{"label":"voyage optimization","permalink":"/handbook/blog/tags/voyage-optimization","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[1103],{9607:a=>{a.exports=JSON.parse('{"label":"optimization","permalink":"/handbook/blog/tags/optimization","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[6793],{6293:a=>{a.exports=JSON.parse('{"label":"blue economy","permalink":"/handbook/blog/tags/blue-economy","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

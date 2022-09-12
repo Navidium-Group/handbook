@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[8261],{2101:a=>{a.exports=JSON.parse('{"label":"KPIs","permalink":"/handbook/blog/tags/kp-is","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

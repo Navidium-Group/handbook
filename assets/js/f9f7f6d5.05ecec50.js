@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[2712],{4095:a=>{a.exports=JSON.parse('{"label":"cloud platforms","permalink":"/handbook/blog/tags/cloud-platforms","allTagsPath":"/handbook/blog/tags","count":1}')}}]);

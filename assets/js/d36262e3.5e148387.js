@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknavidium_handbook=self.webpackChunknavidium_handbook||[]).push([[2343],{3138:a=>{a.exports=JSON.parse('{"label":"Vessel Performance","permalink":"/handbook/blog/tags/vessel-performance","allTagsPath":"/handbook/blog/tags","count":1}')}}]);
