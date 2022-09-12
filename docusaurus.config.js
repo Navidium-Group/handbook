@@ -67,7 +67,7 @@ const config = {
             position: 'left',
             label: 'Handbook',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog/welcome', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Navidium-Group/handbook',
             label: 'GitHub',
@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: '/blog/welcome',
              },
               {
                 label: 'GitHub',
