@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+rajeeb:
+  name: Rajeeb Das
+  title: Jr. Data scientist || Vessel Performance Analyst
+  url: https://github.com/Rajeev-Das
+  image_url: https://ca.slack-edge.com/T03474GDPCJ-U0360NHJXTK-fd74633aae2c-512
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+marty:
+  name: Marty Cochrane
+  title: Navidium CTO
+  url: https://github.com/martycochrane
+  image_url: https://github.com/martycochrane.png
