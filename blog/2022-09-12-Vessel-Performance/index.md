@@ -1,11 +1,7 @@
 ---
 slug: vesselPerformance
 title: Vessel Performance
-authors:
-  name: Rajeeb Das
-  title: Jr. Data scientist || Vessel Performance Analyst
-  url: https://github.com/Rajeev-Das
-  image_url: https://ca.slack-edge.com/T03474GDPCJ-U0360NHJXTK-fd74633aae2c-512
+authors: [rajeeb]
 tags: [Vessel Performance, shipping industry, digitilization, Machine learning, optimization, software products, KPIs, blogs, cloud platforms, fuel savings, management systems]
 ---
 
