@@ -23,7 +23,7 @@ In this post I'll cover the following topics that are important to think about w
 
 Vessel Performance overall is the ship’s performance over time. With the recent changes in compliance regulations set by the IMO (International Maritime Organization), the awareness among the crew members and owners about their ship performance has become increasingly important. They need to know whether their ships are satisfying all the required environmental compliances, and how much is the ship's energy consumption, fuel costs, and operating costs. This is where “vessel performance management” comes into action. Vessel performance management offers and supports the owners, crew members, and other customers to reduce energy consumption, fuel usage, and operating costs of the ships while supporting environmental compliances. This is done by benchmarking the efficiencies of its historical performance allowing opportunities to minimize fuel usage and CO2 emissions, which are major challenges in the shipping industry. Therefore, vessel performance provides a highly customizable and a change in the configuration of a particular vessel or a fleet of vessels to satisfy the owner's and customer's needs.
 
-![vessel](/img/vesselpic_blog.jpg)
+![vessel](./vesselpic_blog.jpg)
 
 ## What are Vessel Performance Management systems?
 
