@@ -4,11 +4,25 @@ The handbook is built using [Docusaurus 2](https://docusaurus.io/).
 
 There is a live running version of the website served through github pages here - https://navidium-group.github.io/handbook/
 
+### Pre Requisites
+
+1. Nodejs Installed
+2. Yarn installed through npm
+
 ### Installation
+
+Clone this repository, browse to it in your terminal and run
 
 ```
 $ yarn
 ```
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Local Development
 
@@ -17,14 +31,6 @@ $ yarn start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Manual Deployment
 
