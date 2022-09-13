@@ -14,3 +14,6 @@ Due to the success of the original Crazy Tuesdays we decided to expand it to inc
 ## Async Standup
 
 On Crazy Days we use a tool called Geekbot meaning we don't have our regular synchronous standup. Geekbot sends everyone in the team some questions about their previous days work and their plans for the day. Everyone's answers are shared with the teams public channel once they've answered in their own time.
+
+## Achieving Flow on Normal Days
+Some times you just need to concetrate regardless of it being a Crazy Day or not. We have introduced a Slack status called 'In Flow (Concentrating)'. This indicates to people that you should not be disturbed. The status can be set for up to 4 hours at a time. 
