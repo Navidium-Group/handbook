@@ -14,6 +14,6 @@ Instead of having a permanent scrum master role in our teams we've decided to ha
 - Stops standups and sprint ceremonies from becoming stale
 - Allows different people to bring their own "flare" to a sprint
 - Brings new ideas into the sprint process
-- After being in the driving seat everyone in the team has a new level of respect / understanding of the role and how to be as helpful as possible in the future to make things run smoothly (eg keeping tickets well updated)
+- After being in the driving seat everyone in the team has a new level of respect / understanding of the role and how to be as helpful as possible in the future to make things run smoothly (e.g. keeping tickets well updated)
 
 If you're a part of one of our product teams then expect to be a Smørekopp a few times a year :)
