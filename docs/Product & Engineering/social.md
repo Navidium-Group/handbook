@@ -18,16 +18,19 @@ Marty, Ros & Gavin meeting in Serbia
 
 ![Marty, Ros & Gavin](/img/social/martyRosGavin.jpg)
 
-## Virtual Cooking Event
+## Cooking together
 
-Our wonderful Product Specialist Sriram hosted our first virtual cooking event and taught us how to make a classic Indian Dish, Rabri
+### Italian - Lasagne
 
-![Cooking1](/img/social/virtualCooking1.png)
+![Lasagne](/img/social/lasagne.jpg)
 
-![Cooking2](/img/social/virtualCooking2.png)
+### Indian - Rabri
 
-![Cooking3](/img/social/cookingResult.jpg)
+![Rabri1](/img/social/virtualCooking1.png)
 
+![Rabri2](/img/social/virtualCooking2.png)
+
+![Rabri3](/img/social/cookingResult.jpg)
 
 ## Game Nights
 
@@ -36,3 +39,9 @@ Our wonderful Product Specialist Sriram hosted our first virtual cooking event a
 ![Gaming Laptop](/img/social/gaming2.jpg)
 
 ![Gaming Setup](/img/social/gaming3.jpg)
+
+## Lunch & Learns
+
+### Using Swift for Cycle Training
+
+![Swift](/img/social/swift.png)
