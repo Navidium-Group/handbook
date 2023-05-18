@@ -25,3 +25,11 @@ The graphic above (credit: Jimmy Janlen) is a great illustration of the format w
 
 Failure is a part of everything we do or try and we find that totally acceptable. What's important for us is to learn from our mistakes and openly talk about it. For that we have our Failure Board in confluence beside our Improvement Themes. This is a simple list of failures that have happened and actions that were taken because of that. Over time this will also become a list of war stories we can laugh about at a later stage ;)
 
+## Raising Problems
+
+While we should always assume peoples best intentions and we should communicate publicly where possible there can be times when a problem occurs in the team that you feel needs to be discussed privately. 
+If this happens, then your first port of call should be your line manager. If for some reason this is not possible then please raise the concern with either Marty Cochrane (CTO) or Gavin Allison (Product & Delivery Manager). If the issue is serious or urgent then you could escalate to Simen Kortgaard (CEO).
+It is often helpful to take some notes about an issue to organise your thoughts prior to discussing it. If there is evidence of the issue then please also gather that too.
+All reported issues will be discussed and you will be taken seriously. If an investigation is required it will be carried out in good time. While we value transparency please be aware that, depending on the result of the investigation, you may not get full details of the outcome. 
+Our aim is to resolve issues quickly and after the first report. However, if an issue reoccurs then please follow up.
+
