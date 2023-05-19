@@ -6,8 +6,8 @@ There is a live running version of the website served through github pages here 
 
 ### Pre Requisites
 
-1. Nodejs Installed
-2. Yarn installed through npm
+1. Nodejs Installed (https://nodejs.org/en/download)
+2. Yarn installed through npm (In 'Node.js command prompt' type: npm install --global yarn)
 
 ### Installation
 
